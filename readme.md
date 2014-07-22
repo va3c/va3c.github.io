@@ -12,7 +12,7 @@ Links of Note
 * http://thebuildingcoder.typepad.com/blog/2014/05/rvtva3c-revit-va3c-generic-aec-viewer-json-export.html
 * http://thebuildingcoder.typepad.com/blog/2014/05/aec-hackathon-from-the-midst-of-the-fray.html
 
-* See also bottom of [home page]( (http://va3c.github.io/) )
+* See also bottom of [home page]( http://va3c.github.io/ )
 
 
 ### Viewer Demos
@@ -20,10 +20,10 @@ Links of Note
 Live Demo: [vA3C Viewer](http://va3c.github.io/)  
 * Prize-winning version as released at the New Yorl AEC Hackathon, May 18 2014 
 
-Post Hackathon Updates
-[vA3C Viewer Live Demo Latest](http://va3c.github.io/viewer/va3c-viewer-html5/latest/index.html)  
-[vA3C Viewer Read me]( http://va3c.github.io/viewer/va3c-viewer-html5/ )
-[vA3C Viewer Source Code]( https://github.com/va3c/viewer/tree/gh-pages/va3c-viewer-html5 )
+Post Hackathon Updates  
+* [vA3C Viewer Live Demo Latest](http://va3c.github.io/viewer/va3c-viewer-html5/latest/index.html)  
+* [vA3C Viewer Read me]( http://va3c.github.io/viewer/va3c-viewer-html5/ )
+* [vA3C Viewer Source Code]( https://github.com/va3c/viewer/tree/gh-pages/va3c-viewer-html5 )
 
 ## Repositories
 
