@@ -11,7 +11,6 @@ Links of Note
 * http://core.thorntontomasetti.com/aec-tech-2014-hacking-and-inspiring-what-more-could-you-ask-for/
 * http://thebuildingcoder.typepad.com/blog/2014/05/rvtva3c-revit-va3c-generic-aec-viewer-json-export.html
 * http://thebuildingcoder.typepad.com/blog/2014/05/aec-hackathon-from-the-midst-of-the-fray.html
-
 * See also bottom of [home page]( http://va3c.github.io/ )
 
 
