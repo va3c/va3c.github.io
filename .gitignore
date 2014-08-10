@@ -1,7 +1,9 @@
 ## Ignore other vA3C repos that users may have placed here
 json/
 viewer/
-RvtVa3c
+RvtVa3c/
+3d-warehouse-samples/
+
 
 #################
 ## Eclipse
