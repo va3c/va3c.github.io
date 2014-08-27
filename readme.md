@@ -23,6 +23,8 @@ Post Hackathon Updates
 * [vA3C Viewer Live Demo Latest](http://va3c.github.io/viewer/va3c-viewer-html5/latest/index.html)  
 * [vA3C Viewer Read me]( http://va3c.github.io/viewer/va3c-viewer-html5/ )
 * [vA3C Viewer Source Code]( https://github.com/va3c/viewer/tree/gh-pages/va3c-viewer-html5 )
+* [Sample File Guidelines]( https://github.com/va3c/va3c.github.io/sample-file-guidelines.md )
+	* 2014-08-26 ~ A just-started WIP
 
 ## Repositories
 
@@ -73,7 +75,7 @@ These forks include the following:
 
 * Three.js
 * Stemkoski's Three.js Example Files
-* AleSurf
+* AlgeSurf
 * FGx Airports
 
-Hats off t all of these nice sources...
+Hats off to all of these nice sources...
