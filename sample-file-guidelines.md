@@ -1,39 +1,53 @@
 Samples Guidelines
 ===
 
-Scale: at the scale they were produced
+The following are guidelines for producing sample files to use and enjoy wirthe the vA3C Viewer
+
+## Data formats
+
+Generally, sample files should follow that latest Three.js JSON format as published on the [Three.js Wiki]( https://github.com/mrdoob/three.js/wiki )
+
+Samples files should be tested using the [Three.js Editor]( http://mrdoob.github.io/three.js/editor/ ).
+
+If the sample loads and displays correctly in the Three.js Editor and the vA3C viewer then it's good to go.
+
+## Model Parameters
+
+Scale: at the scale they were produced  
+
 * Note that the default box is 100 x 100 x 100
 * If you model is to be embedded with other models then it should display well in that box
 * Supply guidance on what scale - other than 1:1 you would like the viewer to use
 
 Origin
+
 * At the bottom lower left corner of the project is nice
-	* Especially if the model is an 
+	* Especially if the model is to b inserted into another model
 * At the bottom center of the project is nice
 
 Rotation
-* use the model's grid
+
+* Use the model's grid
 * Supply guidance if not North/Siuth
 
 
 ## Copyrights
-* For project design
-* For project model
-
+* For project design: Name and contact information for the architect or designer. 
+* For project models: Name and contactac informaton for the modeler.
 
 ## License
 
-* Creative Commonns for designs preferred
+* If not out of copyright, Creative Commons licence preferred
 
 * MIT License for code preferred
 
 ## Description
 
-### Built to what codes and regs
+A paragraph or two decsribing the special aspects or principles of the project in a text file would be nice
 
-### Provenance
-
-
+* Built to what codes and regs
+* Provenance / references to precedants
+* Where published
 
 ## BIM Considerations
 
