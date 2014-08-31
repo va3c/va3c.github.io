@@ -49,26 +49,21 @@ A paragraph or two decsribing the special aspects or principles of the project i
 * Provenance / references to precedants
 * Where published
 
+
 ## BIM Considerations
 
-### Link to ontology or categorization schema
-
-### links to spec
-
-### Links to dates
-
-### Links to codes
+* Link to ontology or categorization schema
+* links to spec
+* Links to project management dates
+* Links to codes
 
 
+## Other Nice things to Have
 
-## Other preferences
-
-### like series of models that have a theme
+* Series of models that have a theme
 	* five is a nice number
-
-### like university class projects
-
-### like examples from e-books
+* University class projects
+* Examples from e-books
 
 
 
