@@ -22,7 +22,7 @@ Scale: at the scale they were produced
 Origin
 
 * At the bottom lower left corner of the project is nice
-	* Especially if the model is to b inserted into another model
+	* Especially if the model is to be inserted into another model
 * At the bottom center of the project is nice
 
 Rotation
