@@ -28,12 +28,12 @@ Origin
 Rotation
 
 * Use the model's grid
-* Supply guidance if not North/Siuth
+* Supply guidance if not North/South
 
 
 ## Copyrights
 * For project design: Name and contact information for the architect or designer. 
-* For project models: Name and contactac informaton for the modeler.
+* For project models: Name and contact information for the modeler.
 
 ## License
 
@@ -46,14 +46,14 @@ Rotation
 A paragraph or two decsribing the special aspects or principles of the project in a text file would be nice
 
 * Built to what codes and regs
-* Provenance / references to precedants
+* Provenance / references to precedents
 * Where published
 
 
 ## BIM Considerations
 
 * Link to ontology or categorization schema
-* links to spec
+* Links to spec
 * Links to project management dates
 * Links to codes
 
@@ -61,7 +61,7 @@ A paragraph or two decsribing the special aspects or principles of the project i
 ## Other Nice things to Have
 
 * Series of models that have a theme
-	* five is a nice number
+	* Five is a nice number
 * University class projects
 * Examples from e-books
 
