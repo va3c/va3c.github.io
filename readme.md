@@ -1,9 +1,9 @@
 vA3C Read Me
 ===
 
-View AEC Building Models in 3D on any Web Browser using the Three.js library
+Mission: View AEC building models in 3D with any web browser using the Three.js library
 
-Links of Note
+Links of Note relating to the Hackathon
 
 * http://core.thorntontomasetti.com/aec-technology-hackathon-2014-project-cq/
 * http://core.thorntontomasetti.com/va3crecap/
@@ -16,14 +16,15 @@ Links of Note
 
 ### Viewer Demos
 
-Live Demo: [vA3C Viewer](http://va3c.github.io/)  
-* Prize-winning version as released at the New Yorl AEC Hackathon, May 18 2014 
+Live Demo: [vA3C Viewer]( http://va3c.github.io/viewer/index.html )  
+* Prize-winning version as released at the New York AEC Hackathon, May 18 2014 
+* Click settings icon at top right to access the main menu
 
 Post Hackathon Updates  
-* [vA3C Viewer Live Demo Latest](http://va3c.github.io/viewer/va3c-viewer-html5/latest/index.html)  
+* [vA3C Viewer Live Demo Latest]( http://va3c.github.io/viewer/va3c-viewer-html5/latest/index.html )  
 * [vA3C Viewer Read me]( http://va3c.github.io/viewer/va3c-viewer-html5/ )
 * [vA3C Viewer Source Code]( https://github.com/va3c/viewer/tree/gh-pages/va3c-viewer-html5 )
-* [Sample File Guidelines]( https://github.com/va3c/va3c.github.io/sample-file-guidelines.md )
+* [Sample File Guidelines]( https://github.com/va3c/va3c.github.io/blob/master/sample-file-guidelines.md )
 	* 2014-08-26 ~ A just-started WIP
 
 ## Repositories
@@ -69,13 +70,13 @@ https://github.com/mrdoob/three.js/tree/master/utils/exporters/max
 
 ### Forked Repos
 
-There are several repos here that are forks of other people's projectes. These forks allow the vA3C Viewer to access their data files.
+There are several repos here that are forks of other people's projects. These forks allow the vA3C Viewer to access their data files.
 
 These forks include the following:
 
 * Three.js
 * Stemkoski's Three.js Example Files
 * AlgeSurf
-* FGx Airports
+* FGx Aircraft
 
 Hats off to all of these nice sources...
