@@ -21,10 +21,11 @@ This effort is not associated with NASA or any of its partners.
 Multiple part model. Not yet ready for viewing. [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/bwg-antenna )
 
 ### Block Island
-[![Block Island 08152013]( http://nasa3d.arc.nasa.gov/shared_assets/models/block-island/block-island-428x321.png )]( #load-file-stl.js#../../../nasa-samples/stl/Block_Island_08152013.stl#random "NASA model" )  
+[![Block Island 08152013]( http://nasa3d.arc.nasa.gov/shared_assets/models/block-island/block-island-428x321.png )]( ../viewer/va3c-hacker/r2dev/va3c-hacker-r2dev.html#browse-nasa-stl-models.js#../../../nasa-samples/stl/Block_Island_08152013.stl#random "NASA model" )  
 
-[Block Island 08152013]( #load-file-stl.js#../../../nasa-samples/stl/Block_Island_08152013.stl#random "NASA model" ) 
+[Block Island 08152013]( #browse-nasa-stl-models.js#../../../nasa-samples/stl/Block_Island_08152013.stl#random "NASA model" ) 
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/block-island )
+[GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/Block_Island_08152013.stl )
 
 ### Cassini
 [![Cassini]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-cassini/jpl-vtad-cassini-428-321.jpg)]( #load-file-stl.js#../../../nasa-samples/stl/cassini.stl#random "NASA model" )   
@@ -168,3 +169,5 @@ Multiple part model. Not yet ready for viewing. [NASA Description Page]( http://
 
 [Voyager]( #load-file-stl.js#../../../nasa-samples/stl/Voyager_17.stl#random "Voyager" ) 
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/jpl-vtad-voyager )
+
+<style>img { width: 400px; } /* yup, this works */</style>
