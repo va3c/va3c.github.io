@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang=en >
+<head>
+<title>vA3C Hacker R2.1dev</title>
+<meta charset=utf-8 />
+<meta name=viewport content=width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0 />
+</head>
+<body>
+<script src=http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js ></script>
+
+
+<script src=http://mrdoob.github.io/three.js/build/three.min.js ></script>
+<script src=http://mrdoob.github.io/three.js/examples/js/loaders/STLLoader.js ></script>
+<script src=va3c-hacker-r2-1dev.js ></script>
+<script src=browse-nasa-stl-models.js ></script>
+<script src=load-file-html.js ></script>
+<script src=load-file-stl.js ></script>
+
+
+<script>
+
+	VH.loadScript = function ( fileName, callback ) {
+
+		var callback = callback ? callback : function () {} ;
+
+		var js = document.body.appendChild ( document.createElement( 'script' ) );
+
+		js.onload = callback();
+
+		js.setAttribute ( 'src', fileName );
+
+	};
+
+	VH.init = function () {
+ 
+		var parameters = location.hash.split ( '#' );
+
+		if ( parameters.length > 1 ) {
+
+			VH.loadScript ( parameters[ 1 ] );
+
+		} else {
+
+//			VH.loadScript ( 'va3c-hacker-r2-1dev.js' );
+
+		}
+
+		window.addEventListener ( 'hashchange', VH.init, false );
+
+	}
+
+	VH.init();
+
+</script>
+</body>
+</html>
