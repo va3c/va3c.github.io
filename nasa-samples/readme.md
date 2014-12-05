@@ -21,16 +21,16 @@ This effort is not associated with NASA or any of its partners.
 ### Block Island
 [![Block Island 08152013]( http://nasa3d.arc.nasa.gov/shared_assets/models/block-island/block-island-428x321.png )]( #./stl/Block_Island_08152013.stl#random "NASA model" )  
 
-[[O]]( #./stl/Block_Island_08152013.stl#random "NASA model" ) 
-[Block Island 08152013]( browse-nasa-stl-models.html#./stl/Block_Island_08152013.stl#random#add=true "NASA model" )   
+[[O]]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/Block_Island_08152013.stl#random "NASA model" ) 
+[Block Island 08152013]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/Block_Island_08152013.stl#random#add=true "NASA model" )   
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/block-island )
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/ )
 
 ### Cassini
 [![Cassini]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-cassini/jpl-vtad-cassini-428-321.jpg)]( #./stl/cassini.stl#random#sx=5#sy=5#sz=5#  "NASA model" )   
 
-[[O]]( #./stl/cassini.stl#random#sx=5#sy=5#sz=5#  "NASA model" )
-[Cassini]( #./stl/cassini.stl#random#add=true#sx=5#sy=5#sz=5#  "NASA model" )  
+[[O]]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/cassini.stl#random#sx=5#sy=5#sz=5#  "NASA model" )
+[Cassini]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/cassini.stl#random#add=true#sx=5#sy=5#sz=5#  "NASA model" )  
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/jpl-vtad-cassini )
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/assini.stl )
 
