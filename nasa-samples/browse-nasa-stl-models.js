@@ -3,11 +3,13 @@
 
 	function browseNasaStlModels ( parameters ) {
 
-//		displayMarkdown ( '../../../nasa-samples/readme.md', info );
+		VH.displayMarkdown ( './readme.md', menuLeft );
+
+		location.hash = '';
 
 		if ( !scene || parameters.indexOf( '#new=true' ) > -1 ) { 
 
-			location.hash = '#load-file-html.js#./templates/template-lights-shadows.html#displayInfo#';
+			loadFileHTMLByURL( '#../viewer/va3c-hacker/r2-3dev/load-file-html-by-url.js#./templates/template-lights-shadows.html#displayInfo#' );
 
 			callbackIframe = function() {
 
@@ -17,7 +19,7 @@
 
 		} else {
 
-				VH.loadScript( 'http://mrdoob.github.io/three.js/examples/js/loaders/STLLoader.js', callbackLoadSTL ( parameters ) );
+			VH.loadScript( 'http://mrdoob.github.io/three.js/examples/js/loaders/STLLoader.js', callbackLoadSTL ( parameters ) );
 
 		}
 
@@ -29,7 +31,7 @@ console.log( 'viewNasaStlModels' );
 
 		callbackIframe = callbackIframeDefault;
 
-		loadFileSTL( parameters );
+		loadFileSTLByURL( parameters );
 
 console.log( 'callbackLoadSTL', parameters, location.hash );
 

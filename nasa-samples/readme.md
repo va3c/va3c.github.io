@@ -1,8 +1,8 @@
-[NASA 3D Models - 3D Printable STL Files]( ./va3c-hacker-r2-1dev.html )
+[NASA 3D Models - 3D Printable STL Files]( ./va3c-hacker-r2-3dev.html )
 ===
-[vA3C Hacker view]( http://va3c.github.io/nasa-samples/va3c-hacker-r2-1dev "View files with vA3C Hacker" )
+[vA3C Hacker view]( http://va3c.github.io/nasa-samples/va3c-hacker-r2-3dev "View files with vA3C Hacker" )
 [GitHub view]( https://github.com/va3c/va3c.github.io/tree/master/nasa-samples "View files with GitHub")
-[vA3C Hacker Home]( http://va3c.github.io/viewer/va3c-hacker/r2dev/va3c-hacker-r2dev.html#browse-nasa-stl-models.js )
+[vA3C Hacker Home]( http://va3c.github.io/viewer/va3c-hacker/r2-3dev/va3c-hacker-r2-3dev.html#browse-nasa-stl-models.js )
 
 The following files are available and downloadable thanks to [NASA 3D Resources (Beta)]( http://nasa3d.arc.nasa.gov/models/printable ).
 
@@ -22,7 +22,8 @@ Multiple part model. Not yet ready for viewing.
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/bwg-antenna )
 
 ### Block Island
-[![Block Island 08152013]( http://nasa3d.arc.nasa.gov/shared_assets/models/block-island/block-island-428x321.png )]( #browse-nasa-stl-models.js#./stl/Block_Island_08152013.stl#random#new=true "NASA model" )  
+[Block Island 08152013]( #../../../nasa-samples/browse-nasa-stl-models.js#./stl/Block_Island_08152013.stl#random "NASA model" ) 
+[![Block Island 08152013]( http://nasa3d.arc.nasa.gov/shared_assets/models/block-island/block-island-428x321.png )]( #browse-nasa-stl-models.js#./stl/Block_Island_08152013.stl#random "NASA model" )  
 
 [[O]]( #browse-nasa-stl-models.js#./stl/Block_Island_08152013.stl#random#new=true "NASA model" ) 
 [Block Island 08152013]( #browse-nasa-stl-models.js#./stl/Block_Island_08152013.stl#random "NASA model" )   

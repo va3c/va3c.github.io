@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang=en >
+<head>
+<title>Browse NASA 3D STL Models</title>
+<meta charset=utf-8 />
+<meta name=viewport content=width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0 />
+</head>
+<body>
+<script src=http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js ></script>
+<script src=../viewer/va3c-hacker/r2-4dev/va3c-hacker-r2-4dev.js ></script>
+
+<!--
+<script src=../viewer/va3c-hackette/r1dev/load-file-html-by-url.js ></script>
+<script src=../viewer/va3c-hackette/r1dev/load-file-json-by-url.js ></script>
+<script src=../viewer/va3c-hackette/r1dev/load-file-obj-by-url.js ></script>
+<script src=../viewer/va3c-hackette/r1dev/load-file-stl-by-url.js ></script>
+-->
+<script>
+
+	var files = [
+		['34M_17.stl',3],
+		['Block_Island_08152013.stl',3],
+		['cassini.stl',3],
+		['Dawn_19.stl',5],
+		['eros.stl',3],
+		['Eta_Car_Homunuculus_model.stl',20],
+		['gale_crater.STL',2],
+		['Hurricane_Julio.stl',2],
+		['itokawa.STL',3],
+		['Juno.stl',3],
+		['kepler_v009.stl',3],
+		['LRO_35.stl',3],
+		['Mars Odyssey.stl',3],
+		['mars_valles_mar.stl',3],
+		['MESSENGER.stl',3],
+		['moon_near_side.stl',3],
+		['MRO_13.stl',3],
+		['NPP_16.stl',3],
+		['Pioneer.stl',5],
+		['Rosetta.stl',3],
+		['Stardust_35.stl',3],
+		['tdrs.stl',3],
+		['vesta_two_hemi.stl',3],
+		['Voyager_17.stl',5]
+	];
+
+	var template = './templates/template-lights-shadows.html';
+
+	var file = files[ Math.floor( files.length * Math.random() ) ];
+
+	location.hash =  './stl/' + file[0] + '#random#sx=' + file[1] + '#sy=' + file[1] + '#sz=' + file[1] + '#';
+
+	VHR.initHackette();
+
+	VHR.displayMarkdown( './readme-hackette.md', menuLeft );
+
+</script>
+</body>
+</html>

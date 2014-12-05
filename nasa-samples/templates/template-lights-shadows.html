@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang=en >
 <head>
-<title>Simple Lights</title>
+<title>Template Lights Shadow</title>
 <meta charset=utf-8 >
 <meta name=viewport content=width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0 >
 </head>
@@ -72,6 +72,7 @@
 		light.position = camera.position;
 		camera.add( light );
 
+/*
 // Ground Plane
 		geometry = new THREE.BoxGeometry( 200, 5, 200 );
 
@@ -85,6 +86,7 @@
 			side: THREE.DoubleSide
 		} );
 
+
 		mesh = new THREE.Mesh( geometry, material );
 		mesh.position.set( 0, -2.5, 0 );
 //		mesh.castShadow = true;
@@ -92,8 +94,9 @@
 		scene.add( mesh );
 
 		scene.add( new THREE.BoxHelper( mesh ) );
+*/
 
-		parent.callbackIframe();
+//		parent.callbackIframe();
 
 	}
 
