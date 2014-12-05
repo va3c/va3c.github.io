@@ -22,7 +22,7 @@ This effort is not associated with NASA or any of its partners.
 [![Block Island 08152013]( http://nasa3d.arc.nasa.gov/shared_assets/models/block-island/block-island-428x321.png )]( #./stl/Block_Island_08152013.stl#random "NASA model" )  
 
 [[O]]( #./stl/Block_Island_08152013.stl#random "NASA model" ) 
-[Block Island 08152013]( #./stl/Block_Island_08152013.stl#random#add=true "NASA model" )   
+[Block Island 08152013]( browse-nasa-stl-models.html#./stl/Block_Island_08152013.stl#random#add=true "NASA model" )   
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/block-island )
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/ )
 
