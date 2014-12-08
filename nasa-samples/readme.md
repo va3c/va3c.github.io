@@ -21,53 +21,53 @@ This effort is not associated with NASA or any of its partners.
 ### Block Island
 [![Block Island 08152013]( http://nasa3d.arc.nasa.gov/shared_assets/models/block-island/block-island-428x321.png )]( #./stl/Block_Island_08152013.stl#random "NASA model" )  
 
-[[O]]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/Block_Island_08152013.stl#random "NASA model" ) 
-[Block Island 08152013]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/Block_Island_08152013.stl#random#add=true "NASA model" )   
+[[O]]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/Block_Island_08152013.stl#random#add=true "NASA model" ) 
+[Block Island 08152013]( #./stl/Block_Island_08152013.stl#random#add=true "NASA model" )   
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/block-island )
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/ )
 
 ### Cassini
-[![Cassini]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-cassini/jpl-vtad-cassini-428-321.jpg)]( #./stl/cassini.stl#random#sx=5#sy=5#sz=5#  "NASA model" )   
+[![Cassini]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-cassini/jpl-vtad-cassini-428-321.jpg)]( #./stl/cassini.stl#random#sx=5#sy=5#sz=5#random#add=true  "NASA model" )   
 
 [[O]]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/cassini.stl#random#sx=5#sy=5#sz=5#  "NASA model" )
-[Cassini]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/cassini.stl#random#add=true#sx=5#sy=5#sz=5#  "NASA model" )  
+[Cassini]( #./stl/cassini.stl#random#add=true#sx=5#sy=5#sz=5#  "NASA model" )  
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/jpl-vtad-cassini )
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/assini.stl )
 
 ### Dawn
-[![Dawn 19]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-dawn/jpl-vtad-dawn-428-321.jpg )]( #./stl/Dawn_19.stl#random#sx=5#sy=5#sz=5# "NASA model" )  
+[![Dawn 19]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-dawn/jpl-vtad-dawn-428-321.jpg )]( #./stl/Dawn_19.stl#random#sx=5#sy=5#sz=5#random#add=true "NASA model" )  
 
 [[O]]( #./stl/Dawn_19.stl#random#sx=5#sy=5#sz=5# "NASA model" ) 
-[Dawn 19]( #./stl/Dawn_19.stl#random#add=true#sx=5#sy=5#sz=5# "NASA model" )  
+[Dawn 19]( #./stl/Dawn_19.stl#random#add=true#sx=5#sy=5#sz=5#random#add=true  "NASA model" )  
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/jpl-vtad-dawn )
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/Dawn_19.stl )
 
 ### Deep Space Network 34
-[![Deep Space Network 34]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-dsn34/jpl-vtad-dsn34-428-321.jpg )]( #./stl/34M_17.stl#random#sx=2#sy=2#sz=2# "NASA model" )  
+[![Deep Space Network 34]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-dsn34/jpl-vtad-dsn34-428-321.jpg )]( #./stl/34M_17.stl#random#sx=2#sy=2#sz=2#random#add=true  "NASA model" )  
 
 [[O]]( #./stl/34M_17.stl#random#sx=2#sy=2#sz=2#  "NASA model" ) 
-[Deep Space Network 34]( #./stl/34M_17.stl#random#add=true#sx=2#sy=2#sz=2#  "NASA model" )  
+[Deep Space Network 34]( #./stl/34M_17.stl#random#add=true#sx=2#sy=2#sz=2#random#add=true "NASA model" )  
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/jpl-vtad-dsn34 )
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/34M_17.stl )
 
 ### Eros
-[![Eros]( http://nasa3d.arc.nasa.gov/shared_assets/models/eros/eros.PNG )]( #./stl/eros.stl#random#sx=5#sy=5#sz=5# "NASA model" )   
+[![Eros]( http://nasa3d.arc.nasa.gov/shared_assets/models/eros/eros.PNG )]( #./stl/eros.stl#random#sx=5#sy=5#sz=5#random#add=true "NASA model" )   
 
 [[O]]( #./stl/eros.stl#random#sx=5#sy=5#sz=5# "NASA model" ) 
-[Eros]( #./stl/eros.stl#random#add=true#sx=5#sy=5#sz=5# "NASA model" )  
+[Eros]( #./stl/eros.stl#random#add=true#sx=5#sy=5#sz=5#random#add=true "NASA model" )  
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/eros )
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/eros.stl )
 
 ### Eta Carinae Homunculus Nebula
 [![Eta Carinae Homunculus Nebula]( http://nasa3d.arc.nasa.gov/shared_assets/models/eta-carinae-homunculus-nebula/homunculus-428x321.jpg)]( #./stl/Eta_Car_Homunuculus_model.stl#random#sx=10#sy=10#sz=10# "Eta Carinae Homunculus Nebula"" )   
 
-[[O]]( #./stl/Eta_Car_Homunuculus_model.stl#random#sx=10#sy=10#sz=10# "NASA model" ) 
-[Eta Carinae Homunculus Nebula]( #./stl/Eta_Car_Homunuculus_model.stl#random#add=true#sx=10#sy=10#sz=10# "NASA model" )  
+[[O]]( #./stl/Eta_Car_Homunuculus_model.stl#random#sx=10#sy=10#sz=10#add=true "NASA model" ) 
+[Eta Carinae Homunculus Nebula]( #./stl/Eta_Car_Homunuculus_model.stl#random#add=true#sx=10#sy=10#sz=10#add=true "NASA model" )  
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/eta-carinae-homunculus-nebula )
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/Eta_Car_Homunuculus_model.stl )
 
 ### Gale Crater
-[![Gale Crater]( http://nasa3d.arc.nasa.gov/shared_assets/models/gale-crater/gale_crater.PNG )]( #./stl/gale_crater.STL#random "" )   
+[![Gale Crater]( http://nasa3d.arc.nasa.gov/shared_assets/models/gale-crater/gale_crater.PNG )]( #./stl/gale_crater.STL#random#add=true "" )   
 
 [[O]]( #./stl/gale_crater.STL#random "NASA model" ) 
 [Gale Crater]( #./stl/gale_crater.STL#random#add=true "NASA model" )  
@@ -75,7 +75,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/gale_crater.STL )
 
 ### Hurricane Julio
-[![Hurricane Julio]( http://nasa3d.arc.nasa.gov/shared_assets/models/hurricane-julio/julio-428.jpg )]( #./stl/Hurricane_Julio.stl#random "" )   
+[![Hurricane Julio]( http://nasa3d.arc.nasa.gov/shared_assets/models/hurricane-julio/julio-428.jpg )]( #./stl/Hurricane_Julio.stl#random#add=true "" )   
 
 [[O]]( #./stl/Hurricane_Julio.stl#random "Hurricane Julio" ) 
 [Hurricane Julio]( #./stl/Hurricane_Julio.stl#random#add=true "Hurricane Julio" )  
@@ -83,7 +83,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/Hurricane_Julio.stl )
 
 ### Itokawa
-[![Itokawa]( http://nasa3d.arc.nasa.gov/shared_assets/models/itokawa/itokawa-110-75.png )]( #./stl/itokawa.STL#random#sx=5#sy=5#sz=5# "" )   
+[![Itokawa]( http://nasa3d.arc.nasa.gov/shared_assets/models/itokawa/itokawa-110-75.png )]( #./stl/itokawa.STL#random#sx=5#sy=5#sz=5#add=true "" )   
 
 [[O]]( #./stl/itokawa.STL#random#sx=5#sy=5#sz=5# "Itokawa" ) 
 [Itokawa]( #./stl/itokawa.STL#random#add=true#sx=5#sy=5#sz=5# "Itokawa" )  
@@ -91,7 +91,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/itokawa.STL )
 
 ### Juno
-[![Juno]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-juno/juno-428-321.jpg )]( #./stl/Juno.stl#random#sx=5#sy=5#sz=5# "NASA model" )   
+[![Juno]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-juno/juno-428-321.jpg )]( #./stl/Juno.stl#random#sx=5#sy=5#sz=5#add=true "NASA model" )   
 
 [[O]]( #./stl/Juno.stl#random#sx=5#sy=5#sz=5# "NASA model" ) 
 [Juno]( #./stl/Juno.stl#random#add=true#sx=5#sy=5#sz=5# "NASA model" )  
@@ -99,7 +99,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/Juno.stl )
 
 ### Kepler
-[![Kepler]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-kepler/jpl-vtad-kepler-428-321.jpg )]( #./stl/kepler_v009.stl#random#sx=2#sy=2#sz=2# "" )   
+[![Kepler]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-kepler/jpl-vtad-kepler-428-321.jpg )]( #./stl/kepler_v009.stl#random#sx=2#sy=2#sz=2#add=true "" )   
 
 [[O]]( #./stl/kepler_v009.stl#random#sx=2#sy=2#sz=2# "Kepler" )
 [Kepler]( #./stl/kepler_v009.stl#random#add=true#sx=2#sy=2#sz=2# "Kepler" )  
@@ -107,7 +107,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/kepler_v009.stl )
 
 ### LRO
-[![LRO]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-lro/jpl-vtad-lro-428-321.jpg )]( #./stl/LRO_35.stl#random#sx=2#sy=2#sz=2# "" )   
+[![LRO]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-lro/jpl-vtad-lro-428-321.jpg )]( #./stl/LRO_35.stl#random#sx=2#sy=2#sz=2#add=true "" )   
 
 [[O]]( #./stl/LRO_35.stl#random#sx=2#sy=2#sz=2# "LRO" ) 
 [LRO]( #./stl/LRO_35.stl#random#add=true#sx=2#sy=2#sz=2# "LRO" )  
@@ -115,7 +115,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/LRO_35.stl )
 
 ### Mars Odyssey
-[![Mars Odyssey]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-marsodyssey/marsodyssey-428-321.jpg )]( #./stl/Mars Odyssey.stl#random#sx=3#sy=3#sz=3# "Mars Odyssey" )   
+[![Mars Odyssey]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-marsodyssey/marsodyssey-428-321.jpg )]( #./stl/Mars Odyssey.stl#random#sx=3#sy=3#sz=3#add=true "Mars Odyssey" )   
 
 [[O]]( #./stl/Mars Odyssey.stl#random#sx=3#sy=3#sz=3#  "Mars Odyssey" ) 
 [Mars Odyssey]( #./stl/Mars Odyssey.stl#random#add=true#sx=3#sy=3#sz=3#  "Mars Odyssey" )  
@@ -123,7 +123,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/Mars Odyssey.stl )
 
 ### MESSENGER
-[![MESSENGER]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-messenger/messenger-428-321.jpg )]( #./stl/MESSENGER.stl#random#sx=3#sy=3#sz=3# "MESSENGER" )   
+[![MESSENGER]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-messenger/messenger-428-321.jpg )]( #./stl/MESSENGER.stl#random#sx=3#sy=3#sz=3#add=true "MESSENGER" )   
 
 [[O]]( #./stl/MESSENGER.stl#random#sx=3#sy=3#sz=3# "MESSENGER" ) 
 [MESSENGER]( #./stl/MESSENGER.stl#random#add=true#sx=3#sy=3#sz=3# "MESSENGER" )  
@@ -131,7 +131,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/MESSENGER.stl )
 
 ### Moon Nearside Farside
-[![Moon Nearside Farside]( http://nasa3d.arc.nasa.gov/shared_assets/models/moon-nearside-farside/moon_near_farside.PNG )]( #./stl/moon_near_side.stl#random#sx=3#sy=3#sz=3# "Moon Nearside Farside" )   
+[![Moon Nearside Farside]( http://nasa3d.arc.nasa.gov/shared_assets/models/moon-nearside-farside/moon_near_farside.PNG )]( #./stl/moon_near_side.stl#random#sx=3#sy=3#sz=3#add=true "Moon Nearside Farside" )   
 
 [[O]]( #./stl/moon_near_side.stl#random#sx=3#sy=3#sz=3# "Moon Nearside Farside" ) 
 [Moon Nearside Farside]( #./stl/moon_near_side.stl#random#add=true#sx=3#sy=3#sz=3# "Moon Nearside Farside" )  
@@ -139,7 +139,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/moon_near_side.stl )
 
 ### MRO
-[![MRO]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-mro/jpl-vtad-mro-428-321.jpg )]( #./stl/MRO_13.stl#random#sx=3#sy=3#sz=3#  "MRO" )   
+[![MRO]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-mro/jpl-vtad-mro-428-321.jpg )]( #./stl/MRO_13.stl#random#sx=3#sy=3#sz=3#add=true  "MRO" )   
 
 [[O]]( #./stl/MRO_13.stl#random#sx=3#sy=3#sz=3#  "MRO" ) 
 [MRO]( #./stl/MRO_13.stl#random#add=true#sx=3#sy=3#sz=3#  "MRO" )  
@@ -147,7 +147,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/MRO_13.stl )
 
 ### NPP
-[![NPP]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-npp/jpl-vtad-npp-428-321.jpg )]( #./stl/NPP_16.stl#random#sx=3#sy=3#sz=3#  "NPP" )   
+[![NPP]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-npp/jpl-vtad-npp-428-321.jpg )]( #./stl/NPP_16.stl#random#sx=3#sy=3#sz=3#add=true  "NPP" )   
 
 [[O]]( #./stl/NPP_16.stl#random#sx=3#sy=3#sz=3#  "NPP" ) 
 [NPP]( #./stl/NPP_16.stl#random#add=true#sx=3#sy=3#sz=3#  "NPP" )  
@@ -155,7 +155,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/NPP_16.stl )
 
 ### Pioneer
-[![Pioneer]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-pioneer/Pioneer-10-11-428-321.jpg )]( #./stl/Pioneer.stl#random#sx=3#sy=3#sz=3#  "Pioneer" )   
+[![Pioneer]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-pioneer/Pioneer-10-11-428-321.jpg )]( #./stl/Pioneer.stl#random#sx=3#sy=3#sz=3#add=true  "Pioneer" )   
 
 [[O]]( #./stl/NPP_16.stl#random#sx=3#sy=3#sz=3#  "Pioneer" ) 
 [Pioneer]( #./stl/NPP_16.stl#random#add=true#sx=3#sy=3#sz=3#  "Pioneer" )  
@@ -163,7 +163,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/NPP_16.stl )
 
 ### Rosetta
-[![Rosetta]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-rosetta/rosetta-428-321.jpg )]( #./stl/Rosetta.stl#random#sx=5#sy=5#sz=5#   "Rosetta" )   
+[![Rosetta]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-rosetta/rosetta-428-321.jpg )]( #./stl/Rosetta.stl#random#sx=5#sy=5#sz=5#add=true   "Rosetta" )   
 
 [[O]]( #./stl/Rosetta.stl#random#sx=5#sy=5#sz=5#  "Rosetta" ) 
 [Rosetta]( #./stl/Rosetta.stl#random#add=true#sx=5#sy=5#sz=5#  "Rosetta" )  
@@ -171,7 +171,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/Rosetta.stl )
 
 ### Stardust
-[![Stardust 35]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-stardust/jpl-vtad-stardust-428-321.jpg )]( #./stl/Stardust_35.stl#random#sx=3#sy=3#sz=3# "NASA model" )  
+[![Stardust 35]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-stardust/jpl-vtad-stardust-428-321.jpg )]( #./stl/Stardust_35.stl#random#sx=3#sy=3#sz=3#add=true "NASA model" )  
 
 [[O]]( #./stl/Stardust_35.stl#random#sx=3#sy=3#sz=3# "Stardust 35" ) 
 [Stardust 35]( #./stl/Stardust_35.stl#random#add=true#sx=3#sy=3#sz=3# "Stardust 35" )  
@@ -179,7 +179,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/Stardust_35.stl )
 
 ### TDRS
-[![TDRS]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-tdrs/TDRS-428-321.jpg )]( #./stl/tdrs.stl#random#sx=5#sy=5#sz=5# "TDRS" )   
+[![TDRS]( http://nasa3d.arc.nasa.gov/shared_assets/models/eoss-tdrs/TDRS-428-321.jpg )]( #./stl/tdrs.stl#random#sx=5#sy=5#sz=5#add=true "TDRS" )   
 
 [[O]]( #./stl/tdrs.stl#random#sx=5#sy=5#sz=5# "TDRS" ) 
 [TDRS]( #./stl/tdrs.stl#random#add=true#sx=5#sy=5#sz=5# "TDRS" )  
@@ -187,7 +187,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/tdrs.stl )
 
 ### Valles Marineris
-[![Valles Marineris]( http://nasa3d.arc.nasa.gov/shared_assets/models/valles-marineris/mars_valles_mar.PNG )]( #./stl/mars_valles_mar.stl#random "Valles Marineris" )   
+[![Valles Marineris]( http://nasa3d.arc.nasa.gov/shared_assets/models/valles-marineris/mars_valles_mar.PNG )]( #./stl/mars_valles_mar.stl#random#add=true "Valles Marineris" )   
 
 [[O]]( #./stl/mars_valles_mar.stl#random "Valles Marineris" ) 
 [Valles Marineris]( #./stl/mars_valles_mar.stl#random#add=true "Valles Marineris" )  
@@ -195,7 +195,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/mars_valles_mar.stl )
 
 ### Vesta
-[![Vesta]( http://nasa3d.arc.nasa.gov/shared_assets/models/vesta/vesta_two_hemi.png )]( #./stl/vesta_two_hemi.stl#random "Vesta" )   
+[![Vesta]( http://nasa3d.arc.nasa.gov/shared_assets/models/vesta/vesta_two_hemi.png )]( #./stl/vesta_two_hemi.stl#random#add=true "Vesta" )   
 
 [[O]]( #./stl/vesta_two_hemi.stl#random "Vesta" ) 
 [Vesta]( #./stl/vesta_two_hemi.stl#random#add=true "Vesta" )  
@@ -203,7 +203,7 @@ This effort is not associated with NASA or any of its partners.
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/vesta_two_hemi.stl )
 
 ### Voyager
-[![Voyager]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-voyager/jpl-vtad-voyager-428-321.jpg )]( #./stl/Voyager_17.stl#random#sx=5#sy=5#sz=5# ""Voyager )   
+[![Voyager]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-voyager/jpl-vtad-voyager-428-321.jpg )]( #./stl/Voyager_17.stl#random#sx=5#sy=5#sz=5#add=true ""Voyager )   
 
 [[O]]( #./stl/Voyager_17.stl#random#sx=5#sy=5#sz=5# "Voyager" )  
 [Voyager]( #./stl/Voyager_17.stl#random#add=true#sx=5#sy=5#sz=5# "Voyager" )  
@@ -226,3 +226,4 @@ Multiple part model. Not yet ready for viewing.
 
 
 <style>img { width: 375px; } /* yup, this works */</style>
+
