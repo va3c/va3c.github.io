@@ -16,16 +16,18 @@ Links of Note relating to the Hackathon
 
 ### Viewer Demos
 
-Live Demo: [vA3C Viewer]( http://va3c.github.io/viewer/index.html )  
+Live Demo: [vA3C Viewer (R1)]( http://va3c.github.io/viewer/index.html )  
 * Prize-winning version as released at the New York AEC Hackathon, May 18 2014 
 * Click settings icon at top right to access the main menu
 
 Post Hackathon Updates  
+
+* [vA3C Hacker Live Demo Latest]( http://va3c.github.io/viewer/va3c-hacker/latest/index.html )  
 * [vA3C Viewer Live Demo Latest]( http://va3c.github.io/viewer/va3c-viewer-html5/latest/index.html )  
 * [vA3C Viewer Read me]( http://va3c.github.io/viewer/va3c-viewer-html5/ )
 * [vA3C Viewer Source Code]( https://github.com/va3c/viewer/tree/gh-pages/va3c-viewer-html5 )
 * [Sample File Guidelines]( https://github.com/va3c/va3c.github.io/blob/master/sample-file-guidelines.md )
-	* 2014-08-26 ~ A just-started WIP
+
 
 ## Repositories
 
@@ -36,9 +38,14 @@ vA3C Homepage
 <https://github.com/va3c/va3c.github.io>
 
 
-### Viewer
+### vA3C Viewer / vA3C Hacker
 
-3D Model Viewer Source Code
+vA3C Hacker Source Code
+
+<https://github.com/va3c/viewer/tree/gh-pages/va3c-hacker>
+
+
+vA3C Viewer 3D model viewer Source Code
 
 <https://github.com/va3c/viewer>
 
@@ -80,3 +87,4 @@ These forks include the following:
 * FGx Aircraft
 
 Hats off to all of these nice sources...
+
