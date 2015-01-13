@@ -1,19 +1,28 @@
 [NASA 3D Models - 3D Printable STL Files]( ./browse-nasa-stl-models.html )
 ===
-[vA3C Hackette view]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html "View files with vA3C Hacker" )
-[GitHub view]( https://github.com/va3c/va3c.github.io/tree/master/nasa-samples "View files with GitHub")
-[vA3C Hacker Home]( http://va3c.github.io/viewer/va3c-hacker/r2-3dev/va3c-hacker-r2-3dev.html#browse-nasa-stl-models.js )
 
-The following files and images are available and downloadable thanks to [NASA 3D Resources (Beta)]( http://nasa3d.arc.nasa.gov/models/printable ).
+[vA3C Hackette view]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html "View files with Hacker's little sibling" )  
+[GitHub view]( https://github.com/va3c/va3c.github.io/tree/master/nasa-samples "View files with GitHub")  
+[vA3C Hacker Home]( http://va3c.github.io/viewer/va3c-hacker/r3-0dev/va3c-hacker-r3-0dev.html#dispatch.js#../../../nasa-samples/browse-nasa-stl-models.html#add=true )  
 
-Clicking the image or the [O] opens file in a new template. Click the text link to add to the existing template. 
-All files added with random positions, rotations and colors. Yes, there are issues with the ground plane.
+<iframe src="http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/Dawn_19.stl#random#" width=100% height=500px class='overview' >
+When viewing this page on github.com only the '[o]' link works. Please use Hacker or Hackette for a better viewing experience. 
+</iframe>  
+
+The following files and images are available and download-able thanks to [NASA 3D Resources (Beta)]( http://nasa3d.arc.nasa.gov/models/printable ).
+
+Clicking the [O] link opens file in a new template. Click the image or text link to *add* to the file to current or existing template. 
+All files are added with random positions, rotations and colors. Yes, there are issues with the ground plane.
 
 For each model, links are provided to the NASA source page and to the source code file on GitHub.
 A neat GitHub feature: STL files are auto-magically converted to viewable 3D models.   
 
 This effort is not associated with NASA or any of its partners.
-[NASA Imagery Usage Guidelines]( Using NASA Imagery and Linking to NASA Web Sites )
+See also [NASA Imagery Usage Guidelines]( Using NASA Imagery and Linking to NASA Web Sites )
+
+Thank you to all the people that make this effort possible!
+
+
 
 ***
 
@@ -24,7 +33,7 @@ This effort is not associated with NASA or any of its partners.
 [[O]]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/Block_Island_08152013.stl#random#add=true "NASA model" ) 
 [Block Island 08152013]( #./stl/Block_Island_08152013.stl#random#add=true "NASA model" )   
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/block-island )
-[GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/ )
+[GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/Block_Island_08152013.stl )
 
 ### Cassini
 [![Cassini]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-cassini/jpl-vtad-cassini-428-321.jpg)]( #./stl/cassini.stl#random#sx=5#sy=5#sz=5#random#add=true  "NASA model" )   
@@ -32,7 +41,7 @@ This effort is not associated with NASA or any of its partners.
 [[O]]( http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/cassini.stl#random#sx=5#sy=5#sz=5#  "NASA model" )
 [Cassini]( #./stl/cassini.stl#random#add=true#sx=5#sy=5#sz=5#  "NASA model" )  
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/jpl-vtad-cassini )
-[GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/assini.stl )
+[GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/cassini.stl )
 
 ### Dawn
 [![Dawn 19]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-dawn/jpl-vtad-dawn-428-321.jpg )]( #./stl/Dawn_19.stl#random#sx=5#sy=5#sz=5#random#add=true "NASA model" )  
@@ -205,7 +214,7 @@ This effort is not associated with NASA or any of its partners.
 ### Voyager
 [![Voyager]( http://nasa3d.arc.nasa.gov/shared_assets/models/jpl-vtad-voyager/jpl-vtad-voyager-428-321.jpg )]( #./stl/Voyager_17.stl#random#sx=5#sy=5#sz=5#add=true ""Voyager )   
 
-[[O]]( #./stl/Voyager_17.stl#random#sx=5#sy=5#sz=5# "Voyager" )  
+[[O]]( #./stl/Voyager_17.stl#random#sx=5#sy=5#sz=5# "Voyager" ) 
 [Voyager]( #./stl/Voyager_17.stl#random#add=true#sx=5#sy=5#sz=5# "Voyager" )  
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/jpl-vtad-voyager )
 [GitHub View]( https://github.com/va3c/va3c.github.io/blob/master/nasa-samples/stl/Voyager_17.stl )
@@ -224,6 +233,10 @@ Multiple part model. Not yet ready for viewing.
 Multiple part model. Not yet ready for viewing.  
 [NASA Description Page]( http://nasa3d.arc.nasa.gov/detail/new-horizons )
 
+
+
+
+***
 
 <style>img { width: 375px; } /* yup, this works */</style>
 

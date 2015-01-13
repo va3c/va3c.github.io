@@ -1,11 +1,11 @@
-[vA3C](../index.html ) &raquo;<br>[NASA Samples]( ./index.html )
+[vA3C](../index.html ) &raquo;<br>[NASA Samples]( ./readme-reader.html )
 =================================================================================================
 
 <p id=rm >
 	<a href=JavaScript:displayPage("#readme.md#rm"); >Read Me</a>
 </p>
 
-<i class="fa fa-github"></i> [Source code on GitHub]( https://github.com/va3c/3d-warehouse-samples )  
+<i class="fa fa-github"></i> [Source code on GitHub]( https://github.com/va3c/nasa-samples )  
 <br>
 <br>
 
