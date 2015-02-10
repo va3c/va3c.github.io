@@ -9,6 +9,7 @@
 <script src=http://mrdoob.github.io/three.js/build/three.min.js ></script>
 <script src=http://mrdoob.github.io/three.js/examples/js/controls/OrbitControls.js ></script>
 <script src=http://mrdoob.github.io/three.js/examples/js/libs/stats.min.js ></script>
+
 <script>
 	var info, renderer, scene, camera, controls, stats, light;
 
@@ -72,7 +73,7 @@
 		light.position = camera.position;
 		camera.add( light );
 
-/*
+
 // Ground Plane
 		geometry = new THREE.BoxGeometry( 200, 5, 200 );
 
@@ -94,7 +95,7 @@
 		scene.add( mesh );
 
 		scene.add( new THREE.BoxHelper( mesh ) );
-*/
+
 
 //		parent.callbackIframe();
 

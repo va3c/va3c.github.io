@@ -7,8 +7,10 @@
 </head>
 <body>
 <script src=http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js ></script>
-<script src=http://va3c.github.io//viewer/va3c-hacker/r2-4dev/va3c-hacker-r2-4dev.js ></script>
+<script src=http://va3c.github.io//viewer/va3c-hacker/r3-0dev/va3c-hacker-r3-0dev.js ></script>
 <script>
+
+	var VH = VH || {};
 
 	var files = [
 		['34M_17.stl',3],
@@ -41,7 +43,7 @@
 
 	var template = './templates/template-lights-shadows.html';
 
-	var hackerPrefix = '../viewer/va3c-hacker/r2-4dev/';
+	var hackerPrefix = '../viewer/va3c-hacker/r3-0dev/';
 
 	var displayMenuLeft = true;
 
@@ -49,9 +51,9 @@
 
 	VH.displayMarkdown( './readme.md', menuLeft );
 
-// this could be the loction.hash in the iframe. Be wary...
+// this could be the location.hash in the iframe. Be wary...
 
-	location.hash = './stl/' + file[0] + '#random#sx=' + file[1] + '#sy=' + file[1] + '#sz=' + file[1] + '#displayInfo';
+	location.hash = '../stl/' + file[0] + '#random#sx=' + file[1] + '#sy=' + file[1] + '#sz=' + file[1] + '#displayInfo';
 
 
 </script>
