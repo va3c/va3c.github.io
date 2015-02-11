@@ -1,6 +1,8 @@
 [NASA 3D Models - 3D Printable STL Files]( ./nasa-hacker-mobile-r1.html )
 ===
 
+#Superceded: files noe in their own reop
+
 <!--
 <iframe src="http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/Dawn_19.stl#random#" width=100% height=500px class='overview' >
 When viewing this page on github.com only the '[o]' link works. Please use Hacker or Hackette for a better viewing experience. 
