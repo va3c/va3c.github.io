@@ -1,7 +1,7 @@
 [NASA 3D Models - 3D Printable STL Files]( ./nasa-hacker-mobile-r1.html )
 ===
 
-#Superceded: files noe in their own reop
+#Superceded: files now in their own repo
 
 <!--
 <iframe src="http://va3c.github.io/nasa-samples/browse-nasa-stl-models.html#./stl/Dawn_19.stl#random#" width=100% height=500px class='overview' >
